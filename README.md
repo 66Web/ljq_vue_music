@@ -131,7 +131,7 @@
 ```
 git clone https://github.com/66Web/ljq_vue_music.git
 
-cd Vue-music
+cd vue-music
 
 npm install //安装依赖
 
