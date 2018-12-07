@@ -139,6 +139,4 @@ npm run dev //服务端运行 访问 http://localhost:8080
 
 npm run build  //项目打包 
 ```
-觉得有用的，可以来个star哦！
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 觉得有用的，可以来个star哦！
