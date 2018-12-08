@@ -139,5 +139,8 @@ npm run dev //服务端运行 访问 http://localhost:8080
 
 npm run build  //项目打包 
 ```
+# 项目爬坑博客：
+> 【音乐App】—— Vue2.0开发移动端音乐WebApp项目爬坑（一）:
+   https://www.cnblogs.com/ljq66/p/10087103.html
 
 ## 觉得有用的，可以来个star哦！
