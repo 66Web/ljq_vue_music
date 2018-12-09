@@ -142,5 +142,7 @@ npm run build  //项目打包
 # 项目爬坑博客：
 > 【音乐App】—— Vue2.0开发移动端音乐WebApp项目爬坑（一）:
    https://www.cnblogs.com/ljq66/p/10087103.html
+> 【音乐App】—— Vue2.0开发移动端音乐WebApp项目爬坑（二）: 
+   https://www.cnblogs.com/ljq66/p/10090690.html 
 
 ## 觉得有用的，可以来个star哦！
